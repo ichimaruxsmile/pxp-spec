@@ -1,0 +1,8 @@
+{
+  "name": "ixs-markdownlint-config",
+  "version": "0.0.0",
+  "description": "markdown文件规范",
+  "author": "pxp <ichimaru.vistar.smile@gmail.com>",
+  "license": "ISC",
+  "main": "index.json"
+}

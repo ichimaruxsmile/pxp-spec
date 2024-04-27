@@ -1,0 +1,12 @@
+{
+  "name": "ixs-commitlint-config",
+  "version": "0.0.0",
+  "description": "commitlint规范",
+  "author": "pxp <ichimaru.vistar.smile@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
