@@ -1,7 +1,7 @@
 module.exports = {
   // 预置配置
   parserPreset: "conventional-changelog-conventionalcommits",
-  //
+  // 规则实现
   rules: {
     "body-leading-blank": [1, "always"],
     "body-max-line-length": [2, "always", 100],
